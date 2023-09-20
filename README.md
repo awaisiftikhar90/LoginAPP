@@ -1,7 +1,7 @@
 # LoginAPP
 
 Simple Login App in Android Studio ;
-In this code, you will learn how to design simple login page for our application
+In this code, you will learn how to design simple login page for our application and trying to implement login through google APP.
 
 #MainActivity
 
