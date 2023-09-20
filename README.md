@@ -29,3 +29,8 @@ Integrate this login page into your app as needed.
 #SecondActivity
 
 ![Screenshot (114)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/d81e9494-0bb6-4817-873e-b340c14074a2)
+
+#Login Through Google login:
+
+![Screenshot (115)](https://github.com/awaisiftikhar90/LoginAPP/assets/43185991/eb81d895-50ce-4ade-9a86-70e35534af1f)
+
